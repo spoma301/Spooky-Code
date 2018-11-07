@@ -68,7 +68,8 @@ footer .footer-left {
 
 footer .footer-left, footer .footer-right {
     display: inline-block;
-    vertical-align: center;
+    color: white
+
 }
 
 footer .footer-links {
@@ -79,7 +80,7 @@ footer .footer-links {
 
 footer .footer-links a {
     text-decoration: none;
-    color: inherit;
+    color: white;
 
 }
 
